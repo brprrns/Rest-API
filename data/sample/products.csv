@@ -1,0 +1,5 @@
+id,product_code,product_name,description,standard_cost,list_price,reorder_level,target_level,quantity_per_unit,discontinued,category
+1,NWTB-1,Northwind Traders Chai,,13.5,18,10,40,10 boxes x 20 bags,0,Beverages
+2,NWTCO-3,Northwind Traders Syrup,,7.5,10,25,100,12 - 550 ml bottles,0,Condiments
+3,NWTCO-4,Northwind Traders Cajun Seasoning,,16.5,22,10,40,48 - 6 oz jars,0,Condiments
+4,NWTO-5,Northwind Traders Olive Oil,,16.0125,21.35,10,40,36 boxes,1,Oil

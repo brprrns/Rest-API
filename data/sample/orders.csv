@@ -1,0 +1,4 @@
+id,customer_id,employee_id,order_date,shipped_date,shipping_fee,payment_type,ship_name,ship_city,ship_country_region,status_id
+1,1,5,2006-01-15 00:00:00,2006-01-22 00:00:00,12,Check,Anna Bedecs,Seattle,USA,3
+2,1,3,2006-02-20 00:00:00,,0,Credit Card,Anna Bedecs,Seattle,USA,1
+3,2,9,2006-03-05 00:00:00,2006-03-07 00:00:00,5,Cash,Antonio Gratacos Solsona,Boston,USA,2

@@ -1,0 +1,4 @@
+id,company,last_name,first_name,email_address,job_title,business_phone,address,city,state_province,zip_postal_code,country_region
+1,Company A,Bedecs,Anna,,Owner,(123)555-0100,123 1st Street,Seattle,WA,99999,USA
+2,Company B,Gratacos Solsona,Antonio,,Owner,(123)555-0100,123 2nd Street,Boston,MA,99999,USA
+3,Company C,Axen,Thomas,,Purchasing Representative,(123)555-0100,123 3rd Street,Los Angelas,CA,99999,USA
