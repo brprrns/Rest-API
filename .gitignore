@@ -10,3 +10,5 @@ samconfig.toml
 .idea/
 .vscode/
 .env
+
+*.db
